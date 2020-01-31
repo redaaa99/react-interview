@@ -1,5 +1,7 @@
 # React-interview
 
+ `npm install` and `npm start`
+
 ## Todo
 1. Add Redux to manage state
 2. Use styled components for more organized styles
